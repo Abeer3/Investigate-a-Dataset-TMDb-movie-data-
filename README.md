@@ -1,0 +1,2 @@
+# Investigate-a-Dataset-TMDb-movie-data-
+This data set is reflecting information regarding movies from The Movie Database (TMDb). The information represents each movie generse, rating, popularity, release date, cast and directors, budget, revenue, and etc. The data analysis process aims to highlight relationships between the data set attributes, such as whether a specific year has the highest percentage of popularity. This project will utilize NumPy, MatPlotLib, and Pandas.
